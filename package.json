@@ -1,0 +1,7 @@
+{
+  "name": "@voxelithic/book-engine",
+  "version": "1.2.0",
+  "type": "module",
+  "main": "src/engine.js",
+  "license": "BUSL-1.1"
+}
