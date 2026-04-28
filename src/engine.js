@@ -498,3 +498,5 @@ export function start(onUpdate, symbols) {
     stopped = true;
   };
 }
+
+// updated: iteration 13
