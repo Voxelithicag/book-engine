@@ -49,7 +49,3 @@ The aggregation engine that powers Voxelithic. Reads every venue on Robinhood Ch
 BUSL-1.1
 
 // updated: iteration 18
-
-<!-- v1000 -->
-
-<!-- v1002 -->

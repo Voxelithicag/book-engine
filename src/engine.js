@@ -502,5 +502,3 @@ export function start(onUpdate, symbols) {
 // updated: iteration 13
 
 // updated: iteration 14
-
-// updated: iteration 57
