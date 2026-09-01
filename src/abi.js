@@ -252,13 +252,3 @@ export function decodeRevert(errData) {
   }
   return { name: "unknown", selector: sel };
 }
-
-// updated: iteration 16
-
-// updated: iteration 17
-
-// updated: iteration 43
-
-// updated: iteration 45
-
-// updated: iteration 56

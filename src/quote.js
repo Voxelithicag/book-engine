@@ -242,19 +242,3 @@ export function parseUnits(str, decimals) {
 }
 
 export const decimalsOf = (sym) => TOKENS[sym]?.decimals ?? 18;
-
-// updated: iteration 33
-
-// updated: iteration 34
-
-// updated: iteration 37
-
-// updated: iteration 47
-
-// updated: iteration 49
-
-// updated: iteration 50
-
-// updated: iteration 60
-
-// updated: iteration 61

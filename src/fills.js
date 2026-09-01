@@ -117,19 +117,3 @@ export function agoText(block, head) {
   if (sec < 3600) return Math.round(sec / 60) + "m ago";
   return (sec / 3600).toFixed(1) + "h ago";
 }
-
-// updated: iteration 19
-
-// updated: iteration 29
-
-// updated: iteration 32
-
-// updated: iteration 38
-
-// updated: iteration 40
-
-// updated: iteration 41
-
-// updated: iteration 44
-
-// updated: iteration 51
